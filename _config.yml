@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. MAOYUAN LI"
+title                    : "MAOYUAN LI"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
