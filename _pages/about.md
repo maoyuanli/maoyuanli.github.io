@@ -20,7 +20,7 @@ Work experience
 * 2022.04-2023.10: Guest Researcher
   * Department of Electronic Systems
   * Norwegian University of Science and Technology
-  * * Advisor:[Ilangko Balasingham](https://www.balasingham.com/); [Ali Khaleghi](https://www.ntnu.edu/employees/ali.khaleghi)
+  * Advisor:[Ilangko Balasingham](https://www.balasingham.com/); [Ali Khaleghi](https://www.ntnu.edu/employees/ali.khaleghi)
 
 * 2021.11-2013.10: Postdoctoral Fellow
   * Intervention Center
