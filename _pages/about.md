@@ -29,7 +29,7 @@ Work experience
   
 Education
 ======
-* Ph.D. in School of Optics and Photonics, Beijing Institute of Technology, 2021
-* Supervisor: [Yong Song](https://opt.bit.edu.cn/jsdw/jsml/gdyqyjs/f491c35fcedd48548d87063037b5e67c.htm)
+* Ph.D. in School of Optics and Photonics, Beijing Institute of Technology, 2021 Supervisor: [Yong Song](https://opt.bit.edu.cn/jsdw/jsml/gdyqyjs/f491c35fcedd48548d87063037b5e67c.htm)
+  
 * B.E. in School of Optics and Photonics, Beijing Institute of Technology, 2015
 
