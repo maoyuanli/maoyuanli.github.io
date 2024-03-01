@@ -12,7 +12,7 @@ I became an electrical and electronic engineer. I received my Ph.D. degree at [B
 {% include base_path %}
 Work experience
 ======
-* 2023.11-Now: JSPS Fellow, Special Reseracher
+* 2023.11-Now: JSPS Fellow, Special Researcher
   * Department of Electrical and Electronic Engineering
   * Tokyo Institute of Technology
   * Collaborators: [Takahiro Aoyagi](http://www.aoyagi.ee.e.titech.ac.jp/blog/dr-takahiro-aoyagi/)
