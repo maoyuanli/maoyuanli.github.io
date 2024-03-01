@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #  - title: "Research"
-    #  url: /Research/
+  - title: "Research"
+    url: /Research/
 
-   # - title: "Project"
-     # url: /Project/  
+   - title: "Project"
+     url: /Project/  
 
   - title: "CV"
     url: /CV/  
