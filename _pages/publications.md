@@ -23,15 +23,15 @@ IEEE Transactions on Power Electronics, 2024. DOI:10.1109/TPEL.2024.3354394 <br 
 [The Retrieval and Effect of Core Parameters for Near-Field Inter-Body Coupling Communication](https://www.mdpi.com/1424-8220/23/12/5521). <br />
 Sensors, 2023. DOI: 10.3390/s23125521 <br />
 
- * Ali I, Muhammad S, Yong S, Deborah E, Muhammad Z, Muhammad Y, Muhammad I S, **Maoyuan L**, Duo L.<br />
+ * Ali Imran, Muhammad Sulaman, Yong Song, Deborah Eric, Muhammad Noaman Zahid, Muhammad Yousaf, Muhammad Imran Saleem, **Maoyuan Li**, Duo Li.<br />
 [Modeling and simulation of high-efficiency GaAs PIN solar cell](https://link.springer.com/article/10.1007/s10825-020-01583-6). <br />
 Journal of Computational Electronics, 2021. DOI: 10.1007/s10825-020-01583-6 <br />
   
- * Muhammad S, Yong S, Shengyi Y, Muhammad I S, **Maoyuan L**, Chandrasekar P V, Ruonan Z, Yurong J, Yanyan C, Qun H, and Bingsuo Z.<br />
+ * Muhammad Sulaman, Yong Song, Shengyi Yang, Muhammad Imran Saleem, **Maoyuan Li**, Chandrasekar Perumal Veeramalai, Ruonan Zhi, Yurong Jiang, Yanyan Cui, Qun Hao, and Bingsuo Zou.<br />
 [Interlayer of PMMA Doped with Au Nanoparticles for High-Performance Tandem Photodetectors: A Solution to Suppress Dark Current and Maintain High Photocurrent](https://pubs.acs.org/doi/10.1021/acsami.0c04093).<br />
 ACS Applied Materials & Interfaces, 2020. DOI:10.1021/acsami.0c04093<br />
 
-  * Muhammad S, Yong S, Shengyi Y, Qun H, Yuejin Z, **Maoyuan L**, Muhammad I S, Perumal V C, Yurong J, Yi T and Bingsuo Z.<br />
+  *	Muhammad Sulaman, Yong Song, Shengyi Yang, Qun Hao, Yuejin Zhao, **Maoyuan Li**, Muhammad Imran Saleem, Perumal Veeramalai Chandraseakar, Yurong Jiang, Yi Tang and Bingsuo Zou. <br />
 [High-performance solution-processed colloidal quantum dots based tandem broadband photodetectors with dielectric interlayer](https://iopscience.iop.org/article/10.1088/1361-6528/ab3b7a/meta?casa_token=lHUQKpO2YbAAAAAA:pfP17Flj8DMGHBihNzlLLZZNSWg22499PtBC19PWoj6YawfMZAq5jlujlbf5jJoariuBf28J-wmKIcyvVRToj2qAaX9Q9A).<br />
 Nanotechnology,2019. DOI: 10.1088/1361-6528/ab3b7a <br />
   
