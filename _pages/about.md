@@ -12,24 +12,24 @@ I became an electrical and electronic engineer. I received my Ph.D. degree at [B
 {% include base_path %}
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023.11-
+  * Department of Electrical and Electronic Engineering
+  * Tokyo Institute of Technology
+  * Collaborators: [Takahiro Aoyagi](http://www.aoyagi.ee.e.titech.ac.jp/blog/dr-takahiro-aoyagi/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.04-2023.10: Guest Researcher
+  * Department of Electronic Systems
+  * Norwegian University of Science and Technology](https://www.ntnu.edu/
+  * * Advisor:[Ilangko Balasingham](https://www.balasingham.com/); [Ali Khaleghi](https://www.ntnu.edu/employees/ali.khaleghi)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021.11-2013.10: Postdoctoral Fellow
+  * Intervention Center
+  * Oslo University Hospital-rikshospitalet
+  * Advisor: [Ilangko Balasingham](https://www.balasingham.com/)
   
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in School of Optics and Photonics, Beijing Institute of Technology, 2021
+  Supervisor: [Yong Song](https://opt.bit.edu.cn/jsdw/jsml/gdyqyjs/f491c35fcedd48548d87063037b5e67c.htm)
+* B.E. in School of Optics and Photonics, Beijing Institute of Technology, 2015
 
