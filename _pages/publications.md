@@ -13,12 +13,9 @@ author_profile: true
 
 Peer-Reviewed Jounrnal
 ======
-* [1]	Maoyuan Li, Ali Khaleghi, Aminolah Hasanvand, Ram Prasadh Narayanan, Ilangko Balasingham. [A New Design and Analysis for Metasurface-Based Near-field Magnetic Wireless Power Transfer for Deep Implants](https://ieeexplore.ieee.org/document/10400819). IEEE Transactions on Power Electronics, 2024.
- ** DOI:10.1109/TPEL.2024.3354394
-* [2]	Maoyuan Li, Yong Song, Yongtao Hou, Ning Li, Yurong Jiang, Muhammad Sulaman, Qun Hao, [Comparable Investigation of Characteristics for Implant Intra-Body Communication Based on Galvanic and Capacitive Coupling](https://ieeexplore.ieee.org/abstract/document/8831414), IEEE Transactions on Biomedical Circuits and Systems, vol. 13, no. 6, pp. 1747-1758, 2019.
- ** DOI:10.1109/TBCAS.2019.2940827
-* [3]	Maoyuan Li, Yong Song, Wansong Li, Guangfa Wang, Tianpeng Bu, Yufei Zhao and Qun Hao. [The Modeling and Simulation of the Galvanic Coupling Intra-Body Communication via Handshake Channel](https://www.mdpi.com/1424-8220/17/4/863). Sensors, vol. 17, no. 4, pp. 863-879, 2017.
- ** DOI:10.3390/s17040863
+* [1]	Maoyuan Li, Ali Khaleghi, Aminolah Hasanvand, Ram Prasadh Narayanan, Ilangko Balasingham. [A New Design and Analysis for Metasurface-Based Near-field Magnetic Wireless Power Transfer for Deep Implants](https://ieeexplore.ieee.org/document/10400819). IEEE Transactions on Power Electronics, 2024. DOI:10.1109/TPEL.2024.3354394
+* [2]	Maoyuan Li, Yong Song, Yongtao Hou, Ning Li, Yurong Jiang, Muhammad Sulaman, Qun Hao, [Comparable Investigation of Characteristics for Implant Intra-Body Communication Based on Galvanic and Capacitive Coupling](https://ieeexplore.ieee.org/abstract/document/8831414), IEEE Transactions on Biomedical Circuits and Systems, vol. 13, no. 6, pp. 1747-1758, 2019. DOI:10.1109/TBCAS.2019.2940827
+* [3]	Maoyuan Li, Yong Song, Wansong Li, Guangfa Wang, Tianpeng Bu, Yufei Zhao and Qun Hao. [The Modeling and Simulation of the Galvanic Coupling Intra-Body Communication via Handshake Channel](https://www.mdpi.com/1424-8220/17/4/863). Sensors, vol. 17, no. 4, pp. 863-879, 2017. DOI:10.3390/s17040863
 * [4]	Yun Li, Yong Song, Xianyue Kong, Maoyuan Li, Yufei Zhao, Qun Hao and Tianxin Gao. The Simulation of the Recharging Method Based on Solar Radiation for an Implantable Biosensor. Sensors, vol. 16, no. 9, pp. 1468-1480, 2016.
 * [5]	Shangnan Zhao, Yong Song, Yufei Zhao, Yun Li, Lin Li, Qun Hao, and Maoyuan Li. Infrared target detection method based on the receptive field and lateral inhibition of human visual system. Applied Optics. vol. 56 no. 6, pp. 8555-8563, 2017.
 * [6]	Muhammad Sulaman, Yong Song, Shengyi Yang, Maoyuan Li, Muhammad Imran Saleem, Perumal Veeramalai Chandraseakar, Yurong Jiang, Yi Tang and Bingsuo Zou. Ultra-sensitive solution-processed broadband photodetectors based on vertical field-effect transistor. Nanotechnology, vol. 31, no. 10, 2019.
