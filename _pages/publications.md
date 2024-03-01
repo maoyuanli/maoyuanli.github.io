@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+<br />
+<br />
 
 Peer-Reviewed Jounrnal
 ======
