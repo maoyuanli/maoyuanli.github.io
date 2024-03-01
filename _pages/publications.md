@@ -15,9 +15,16 @@ author_profile: true
 
 Peer-Reviewed Jounrnal
 ======
-* [1]	Maoyuan Li, Ali Khaleghi, Aminolah Hasanvand, Ram Prasadh Narayanan, Ilangko Balasingham. [A New Design and Analysis for Metasurface-Based Near-field Magnetic Wireless Power Transfer for Deep Implants](https://ieeexplore.ieee.org/document/10400819).IEEE Transactions on Power Electronics, 2024. <br />
-DOI:10.1109/TPEL.2024.3354394
-* [2]	Maoyuan Li, Yong Song, Yongtao Hou, Ning Li, Yurong Jiang, Muhammad Sulaman, Qun Hao, [Comparable Investigation of Characteristics for Implant Intra-Body Communication Based on Galvanic and Capacitive Coupling](https://ieeexplore.ieee.org/abstract/document/8831414), IEEE Transactions on Biomedical Circuits and Systems, vol. 13, no. 6, pp. 1747-1758, 2019. <br />
+*	**Maoyuan Li**, Ali Khaleghi, Aminolah Hasanvand, Ram Prasadh Narayanan, Ilangko Balasingham. <br />
+[A New Design and Analysis for Metasurface-Based Near-field Magnetic Wireless Power Transfer for Deep Implants](https://ieeexplore.ieee.org/document/10400819). <br />
+IEEE Transactions on Power Electronics, 2024. DOI:10.1109/TPEL.2024.3354394 <br />
+  
+* Xu Zhang, Yong Song, Ya Zhou, **Maoyuan Li**, Wu Ren, Yizhu Ma, Changxiang Li and Yubo Cao. <br />
+[The Retrieval and Effect of Core Parameters for Near-Field Inter-Body Coupling Communication](https://www.mdpi.com/1424-8220/23/12/5521) <br />
+ Sensors. 2023. DOI: 10.3390/s23125521 <br />
+
+
+[2]	Maoyuan Li, Yong Song, Yongtao Hou, Ning Li, Yurong Jiang, Muhammad Sulaman, Qun Hao, [Comparable Investigation of Characteristics for Implant Intra-Body Communication Based on Galvanic and Capacitive Coupling](https://ieeexplore.ieee.org/abstract/document/8831414), IEEE Transactions on Biomedical Circuits and Systems, vol. 13, no. 6, pp. 1747-1758, 2019. <br />
 DOI:10.1109/TBCAS.2019.2940827
 * [3]	Maoyuan Li, Yong Song, Wansong Li, Guangfa Wang, Tianpeng Bu, Yufei Zhao and Qun Hao. [The Modeling and Simulation of the Galvanic Coupling Intra-Body Communication via Handshake Channel](https://www.mdpi.com/1424-8220/17/4/863). Sensors, vol. 17, no. 4, pp. 863-879, 2017.<br />
 DOI:10.3390/s17040863
