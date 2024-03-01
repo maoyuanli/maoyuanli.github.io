@@ -13,7 +13,7 @@ author_profile: true
 
 Peer-Reviewed Jounrnal
 ======
-* [1]	Maoyuan Li, Ali Khaleghi, Aminolah Hasanvand, Ram Prasadh Narayanan, Ilangko Balasingham. [A New Design and Analysis for Metasurface-Based Near-field Magnetic Wireless Power Transfer for Deep Implants], (https://ieeexplore.ieee.org/document/10400819). IEEE Transactions on Power Electronics, 2024.
+* [1]	Maoyuan Li, Ali Khaleghi, Aminolah Hasanvand, Ram Prasadh Narayanan, Ilangko Balasingham. [A New Design and Analysis for Metasurface-Based Near-field Magnetic Wireless Power Transfer for Deep Implants](https://ieeexplore.ieee.org/document/10400819). IEEE Transactions on Power Electronics, 2024.
  ** DOI:10.1109/TPEL.2024.3354394
 * [2]	Maoyuan Li, Yong Song, Yongtao Hou, Ning Li, Yurong Jiang, Muhammad Sulaman, Qun Hao, [Comparable Investigation of Characteristics for Implant Intra-Body Communication Based on Galvanic and Capacitive Coupling](https://ieeexplore.ieee.org/abstract/document/8831414), IEEE Transactions on Biomedical Circuits and Systems, vol. 13, no. 6, pp. 1747-1758, 2019.
  ** DOI:10.1109/TBCAS.2019.2940827
