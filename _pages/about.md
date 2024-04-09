@@ -15,6 +15,7 @@ From 2021 to 2023, I was a postdoctoral researcher with [the Intervention Center
 My interests span diverse topics, including wireless technology, information theory and finite element methods for **implantable medical devices**. If you are interested in our work, **email contact is preferable**.
 
 
+
 {% include base_path %}
 Work experience
 ======
