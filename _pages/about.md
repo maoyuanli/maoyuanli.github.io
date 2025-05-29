@@ -38,6 +38,12 @@ Education
 ======
 * **Ph.D.** in School of Optics and Photonics, Beijing Institute of Technology, 2021
   * Supervisor: [Yong Song](https://opt.bit.edu.cn/jsdw/jsml/gdyqyjs/f491c35fcedd48548d87063037b5e67c.htm)
+  * **B.E.** in School of Optics and Photonics, Beijing Institute of Technology, 2015
+    
+Project
+======
+[Simultaneous Wireless Power and Information Transfer for Medical Implants by Near-field Coupling](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KF0225/)
+*Funded by The Japan Society for the Promotion of Science (JSPS)*. 2023.11-2025.11.
   
-* **B.E.** in School of Optics and Photonics, Beijing Institute of Technology, 2015
+
 
