@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an electrical and electronic engineer. I am currently working at [the Department of Electrical and Electronic Engineering](https://educ.titech.ac.jp/ee/eng/), [the Tokyo Institute of Technology](https://www.titech.ac.jp/english) (TokyoTech), specializing in joint wireless information and power transfer for implantable medical devices. I hold an overseas JSPS postdoctoral fellowship. 
+I am an electrical and electronic engineer. I am currently working at [the Department of Electrical and Electronic Engineering](https://educ.titech.ac.jp/ee/eng/), [the Institute of Science Tokyo](https://www.titech.ac.jp/english) (TokyoTech), specializing in joint wireless information and power transfer for implantable medical devices. I hold an overseas JSPS postdoctoral fellowship. 
   
 I received my Ph.D. from  [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China. My research was focused on body area networks.
   
@@ -21,7 +21,7 @@ Work experience
 ======
 * 2023.11-Now: **JSPS Fellow, Special Researcher**
   * Department of Electrical and Electronic Engineering
-  * Tokyo Institute of Technology
+  * The Institute of Science Tokyo
   * Collaborators: [Takahiro Aoyagi](http://www.aoyagi.ee.e.titech.ac.jp/blog/dr-takahiro-aoyagi/)
 
 * 2022.04-2023.10: **Guest Researcher**
