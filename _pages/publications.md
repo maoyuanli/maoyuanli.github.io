@@ -58,11 +58,18 @@ Applied Optics, 2017. DOI: 10.1364/AO.56.008555<br />
 
 Selected Conference
 ======
+* **Maoyuan Li**, Takahiro Aoyagi, Ilangko Balasingham, Ali Khaleghi.<br />
+   [A Preliminary Multi-Physics Study for Intra-Cardiac Communication Based on Biventricular Model](https://ieeexplore.ieee.org/document/10999783).<br />
+   2025 19th European Conference on Antennas and Propagation (EuCAP), 2025.<br />
+   
+* Xu Zhang, Yong Song, **Maoyuan Li**, Ya Zhou, Yu Chen, Meng Zheng.<br />
+   [Health-Care Based on Near Field Inter-Body Coupling Communication: Modeling and Analysis of Characteristics](https://ieeexplore.ieee.org/document/10979187).<br />
+   2025 16th German Microwave Conference (GeMiC), 2025.<br />
+
 * **Maoyuan Li**, Ali Khaleghi, and Ilangko Balasingham.<br />
    [Safety Analysis of Metasurface-Based Near-field Wireless Power Transfer System for Deep Implants](https://ieeexplore.ieee.org/document/10215987).<br />
    IEEE Wireless Power Technology Conference and Expo 2023, 2023.<br />
   
-
 * Wangwang Zhu, Taogeng Zhou, Ya Zhou, **Maoyuan Li**, Yu Chen, Yufei Zhao, Yong Song.<br />
  [An audio transmission system based on capacitive coupling intra-body communication](https://ieeexplore.ieee.org/document/9445949).<br />
  2021 International Conference on Communications, Information System and Computer Engineering (CISCE), 2021. <br />
