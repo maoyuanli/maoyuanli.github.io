@@ -43,7 +43,7 @@ Education
 Project
 ======
 * [Simultaneous Wireless Power and Information Transfer for Medical Implants by Near-field Coupling](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23KF0225/)
-  * Funded by The Japan Society for the Promotion of Science (JSPS)*. 2023.11-2025.11.
+  * Funded by The Japan Society for the Promotion of Science (JSPS). 2023.11-2025.11.
   
 
 
