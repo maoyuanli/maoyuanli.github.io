@@ -58,6 +58,15 @@ Applied Optics, 2017. DOI: 10.1364/AO.56.008555<br />
 
 Selected Conference
 ======
+
+* **Maoyuan Li**, Mingxiang Gao, Anja K. Skrivervik, Takahiro Aoyagi.<br />
+   A Suitable Metric for Maximum Received Power of Deep-Tissue Implantable Devices, in the 2025 International Symposium on Antennas and Propagation (Accepted and released soon).<br />
+   2025 International Symposium on Antennas and Propagation (ISAP 2025).<br />
+
+* Ryoya Ishiura, **Maoyuan Li** and Takahiro Aoyagi.<br />
+   Impedance Matching Method of Metasurface-Aided Magnetic Wireless Power Transfer for Deep Implants Based on Maximal Ratio Combining (Accepted and released soon).<br />
+   2025 International Symposium on Antennas and Propagation (ISAP 2025).<br />
+
 * **Maoyuan Li**, Takahiro Aoyagi, Ilangko Balasingham, Ali Khaleghi.<br />
    [A Preliminary Multi-Physics Study for Intra-Cardiac Communication Based on Biventricular Model](https://ieeexplore.ieee.org/document/10999783).<br />
    2025 19th European Conference on Antennas and Propagation (EuCAP), 2025.<br />
