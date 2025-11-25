@@ -26,7 +26,7 @@ Work experience
   * The University of Electro-Communications
   * Collaborators: [Kun LI](https://www.uec.ac.jp/eng/research/information/teacher/841?lang=en)
 
-* 2023.11-Now: **JSPS Fellow, Special Researcher**
+* 2023.11-2025.11: **JSPS Fellow, Special Researcher**
   * Department of Electrical and Electronic Engineering
   * The Institute of Science Tokyo
   * Collaborators: [Takahiro Aoyagi](http://www.aoyagi.ee.e.titech.ac.jp/blog/dr-takahiro-aoyagi/)
