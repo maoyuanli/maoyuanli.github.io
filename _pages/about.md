@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div align="justify">
 I am an electrical and electronic engineer. I am currently working at [the Advanced Wireless and Communication Research Center](https://www.uec.ac.jp/eng/research/researchcenters/awcc.html), [the University of Electro-Communications](https://www.uec.ac.jp/) (UEC), specializing in joint wireless information and power transfer for implantable medical devices. I hold an overseas JSPS postdoctoral fellowship. 
   
 I received my Ph.D. from  [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China. My research was focused on body area networks.
@@ -15,7 +16,7 @@ From 2023 to 2025, I was a JSPS postdoctoral researcher at [the Department of El
 From 2021 to 2023, I was a postdoctoral researcher at [the Intervention Center](https://www.ivs.no), [Oslo University Hospital](https://www.oslo-universitetssykehus.no/oslo-university-hospital) (OUS), Oslo, Norway. I also worked as a guest researcher at [the Department of Electronic Systems](https://www.ntnu.edu/ies), [Norwegian University of Science and Technology](https://www.ntnu.edu/) (NTNU), Trondheim, Norway.
   
 My interests span diverse topics, including wireless technology, information theory and finite element methods for **implantable medical devices**. If you are interested in our work, **[email](mailto:maoyuan.li.bit@gmail.com) contact is preferable**.
-
+</div>
 
 
 {% include base_path %}
