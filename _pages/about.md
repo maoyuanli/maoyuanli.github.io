@@ -18,9 +18,8 @@ From 2021 to 2023, I was a postdoctoral researcher at <a href="https://www.ivs.n
 
 My interests span diverse topics, including wireless technology, information theory and finite element methods for <b>implantable medical devices</b>. If you are interested in our work, <a href="mailto:maoyuan.li.bit@gmail.com"><b>email contact is preferable</b></a>.
 
+
 </div>
-
-
 {% include base_path %}
 Work experience
 ======
