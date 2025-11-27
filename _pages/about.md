@@ -17,9 +17,8 @@ From 2023 to 2025, I was a JSPS postdoctoral researcher at <a href="https://educ
 From 2021 to 2023, I was a postdoctoral researcher at <a href="https://www.ivs.no">the Intervention Center</a>, <a href="https://www.oslo-universitetssykehus.no/oslo-university-hospital">Oslo University Hospital</a> (OUS), Oslo, Norway. I also worked as a guest researcher at <a href="https://www.ntnu.edu/ies">the Department of Electronic Systems</a>, <a href="https://www.ntnu.edu/">Norwegian University of Science and Technology</a> (NTNU), Trondheim, Norway.
 
 My interests span diverse topics, including wireless technology, information theory and finite element methods for <b>implantable medical devices</b>. If you are interested in our work, <a href="mailto:maoyuan.li.bit@gmail.com"><b>email contact is preferable</b></a>.
-
-
 </div>
+
 {% include base_path %}
 Work experience
 ======
