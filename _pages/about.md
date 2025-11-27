@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 <div align="justify">
-I am an electrical and electronic engineer. I am currently working at [the Advanced Wireless and Communication Research Center](https://www.uec.ac.jp/eng/research/researchcenters/awcc.html), [the University of Electro-Communications](https://www.uec.ac.jp/) (UEC), specializing in joint wireless information and power transfer for implantable medical devices. I hold an overseas JSPS postdoctoral fellowship. 
-  
-I received my Ph.D. from  [Beijing Institute of Technology](https://english.bit.edu.cn/), Beijing, China. My research was focused on body area networks.
-  
-From 2023 to 2025, I was a JSPS postdoctoral researcher at [the Department of Electrical and Electronic Engineering](https://educ.titech.ac.jp/ee/eng/), [the Institute of Science Tokyo](https://www.titech.ac.jp/english) (TokyoTech), Tokyo, Japan.
 
-From 2021 to 2023, I was a postdoctoral researcher at [the Intervention Center](https://www.ivs.no), [Oslo University Hospital](https://www.oslo-universitetssykehus.no/oslo-university-hospital) (OUS), Oslo, Norway. I also worked as a guest researcher at [the Department of Electronic Systems](https://www.ntnu.edu/ies), [Norwegian University of Science and Technology](https://www.ntnu.edu/) (NTNU), Trondheim, Norway.
-  
-My interests span diverse topics, including wireless technology, information theory and finite element methods for **implantable medical devices**. If you are interested in our work, **[email](mailto:maoyuan.li.bit@gmail.com) contact is preferable**.
+I am an electrical and electronic engineer. I am currently working at <a href="https://www.uec.ac.jp/eng/research/researchcenters/awcc.html">the Advanced Wireless and Communication Research Center</a>, <a href="https://www.uec.ac.jp/">the University of Electro-Communications</a> (UEC), specializing in joint wireless information and power transfer for implantable medical devices. I hold an overseas JSPS postdoctoral fellowship.
+
+I received my Ph.D. from <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>, Beijing, China. My research was focused on body area networks.
+
+From 2023 to 2025, I was a JSPS postdoctoral researcher at <a href="https://educ.titech.ac.jp/ee/eng/">the Department of Electrical and Electronic Engineering</a>, <a href="https://www.titech.ac.jp/english">the Institute of Science Tokyo</a> (TokyoTech), Tokyo, Japan.
+
+From 2021 to 2023, I was a postdoctoral researcher at <a href="https://www.ivs.no">the Intervention Center</a>, <a href="https://www.oslo-universitetssykehus.no/oslo-university-hospital">Oslo University Hospital</a> (OUS), Oslo, Norway. I also worked as a guest researcher at <a href="https://www.ntnu.edu/ies">the Department of Electronic Systems</a>, <a href="https://www.ntnu.edu/">Norwegian University of Science and Technology</a> (NTNU), Trondheim, Norway.
+
+My interests span diverse topics, including wireless technology, information theory and finite element methods for <b>implantable medical devices</b>. If you are interested in our work, <a href="mailto:maoyuan.li.bit@gmail.com"><b>email contact is preferable</b></a>.
+
 </div>
 
 
