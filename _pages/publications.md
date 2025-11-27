@@ -15,6 +15,8 @@ author_profile: true
 
 Peer-Reviewed Journal
 ======
+<div align="justify">
+  
 *	**Maoyuan Li**, Ali Khaleghi, Aminolah Hasanvand, Ram Prasadh Narayanan, Ilangko Balasingham. <br />
 [A New Design and Analysis for Metasurface-Based Near-field Magnetic Wireless Power Transfer for Deep Implants](https://ieeexplore.ieee.org/document/10400819). <br />
 IEEE Transactions on Power Electronics, 2024. DOI:10.1109/TPEL.2024.3354394 <br />
@@ -105,3 +107,4 @@ JOURNAL OF BEIJING INSTITUTE OF TECHNOLOGY, 2022. DOI: 10.15918/j.jbit1004-0579.
 * **Maoyuan Li**, Xu Zhang, Yong Song, Yu Chen, Wu Ren. <br />
 [A Modeling Method of the IBC System Based on the Composite Fading Channel](https://journal.bit.edu.cn/jbit/en/article/doi/10.15918/j.jbit1004-0579.2021.075). <br />
 JOURNAL OF BEIJING INSTITUTE OF TECHNOLOGY, 2022. DOI: 10.15918/j.jbit1004-0579.2021.075 <br />
+</div>
