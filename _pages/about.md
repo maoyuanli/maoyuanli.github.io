@@ -38,7 +38,7 @@ Work experience
   * Norwegian University of Science and Technology
   * Advisor:[Ilangko Balasingham](https://www.balasingham.com/); [Ali Khaleghi](https://www.ntnu.edu/employees/ali.khaleghi)
 
-* 2021.11-2013.10: **Postdoctoral Fellow**
+* 2021.11-2023.10: **Postdoctoral Fellow**
   * Intervention Center
   * Oslo University Hospital-rikshospitalet
   * Advisor: [Ilangko Balasingham](https://www.balasingham.com/)
