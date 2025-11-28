@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div align="justify">
 
-I am an electrical and electronic engineer. I am currently working at <a href="https://www.uec.ac.jp/eng/research/researchcenters/awcc.html">the Advanced Wireless and Communication Research Center</a>, <a href="https://www.uec.ac.jp/">the University of Electro-Communications</a> (UEC), specializing in joint wireless information and power transfer for implantable medical devices. I hold an overseas JSPS postdoctoral fellowship.
+I am an electrical and electronic engineer. I am currently working at <a href="https://www.uec.ac.jp/eng/research/researchcenters/awcc.html">the Advanced Wireless and Communication Research Center</a>, <a href="https://www.uec.ac.jp/">the University of Electro-Communications</a> (UEC), specializing in joint wireless information and power transfer for implantable medi cal devices. I hold an overseas JSPS postdoctoral fellowship.
 
 I received my Ph.D. from <a href="https://english.bit.edu.cn/">Beijing Institute of Technology</a>, Beijing, China. My research was focused on body area networks.
 
