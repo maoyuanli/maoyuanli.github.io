@@ -1058,16 +1058,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 
-  
-
-
-
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="max-width: 400px; width: 100%;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=K9NLvpbM7GH1cTCvhvVlo4LW5p-d2mRZYw6UhrAFw0g&cl=ffffff&w=a"></script>
-  </div>
-</div>
 
 
 <footer class="site-footer">
@@ -1116,6 +1106,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </footer>
   
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+    var offset = 220;
+    var duration = 500;
+    jQuery(window).scroll(function() {
+        if (jQuery(this).scrollTop() > offset) {
+            jQuery('.back-to-top').fadeIn(duration);
+        } else {
+            jQuery('.back-to-top').fadeOut(duration);
+    
+        }
+    });
+    jQuery('.back-to-top').click(function(event) {
+        event.preventDefault();
+        jQuery('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    })
+});
+</script>
 
   </body>
 
